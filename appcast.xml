@@ -5,5 +5,23 @@
     <link>https://github.com/atrouwee/saltframe-releases</link>
     <description>saltFrame updates</description>
     <language>en</language>
+    <item>
+      <title>saltFrame 0.1.0</title>
+      <pubDate>Mon, 02 Nov 2026 17:01:19 +0100</pubDate>
+      <sparkle:version>293</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The first saltFrame for friends: a photo library for Mac that takes over from Lightroom Classic&#x27;s Library.</li><li>Start from Lightroom Classic: pick the folder where your photos are, and saltFrame brings in your catalog&#x27;s ratings, flags, labels, keywords and collections. Your photos and your Lightroom catalog are never changed.</li><li>Browse every photo on one timeline and rate and flag with Lightroom&#x27;s keys.</li><li>Updates arrive by themselves; saltFrame › Check for Updates… looks now.</li><li>Needs macOS 27 on an Apple silicon Mac. This is an alpha: tell AJ what breaks.</li></ul>]]></description>
+      <enclosure url="https://github.com/atrouwee/saltframe-releases/releases/download/v0.1.0-293/saltFrame-0.1.0-293.dmg" length="145770264" type="application/octet-stream" sparkle:edSignature="TRDmk+l+Otp1U+EQkxYozKij2RvlORUAAATErBhLQUB98YPElz1f3GWOPfrud8j9YZlhvxuoOn3yFMHcNWm8CQ=="/>
+    </item>
+    <item>
+      <title>saltFrame 0.1.0</title>
+      <pubDate>Tue, 03 Nov 2026 14:20:18 +0100</pubDate>
+      <sparkle:version>295</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The first saltFrame for friends: a photo library for Mac that takes over from Lightroom Classic&#x27;s Library.</li><li>Start from Lightroom Classic: pick the folder where your photos are, and saltFrame brings in your catalog&#x27;s ratings, flags, labels, keywords and collections. Your photos and your Lightroom catalog are never changed.</li><li>Browse every photo on one timeline and rate and flag with Lightroom&#x27;s keys.</li><li>Updates arrive by themselves; saltFrame › Check for Updates… looks now.</li><li>Needs macOS 27 on an Apple silicon Mac. This is an alpha: tell AJ what breaks.</li></ul>]]></description>
+      <enclosure url="https://github.com/atrouwee/saltframe-releases/releases/download/v0.1.0-295/saltFrame-0.1.0-295.dmg" length="143616509" type="application/octet-stream" sparkle:edSignature="1IccnybQ7IF0rVe1TVw8ifGy46gMQTbAMAkujbSPe6wDYkjwHkz+E4mJqxviHk5U1F+PM4RekCG7ET0sMzVvDw=="/>
+    </item>
   </channel>
 </rss>
